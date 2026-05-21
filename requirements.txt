@@ -1,0 +1,10 @@
+streamlit
+groq
+PyPDF2
+scikit-learn
+pandas
+numpy
+plotly
+python-dotenv
+requests
+supbase
